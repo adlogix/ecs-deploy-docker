@@ -4,7 +4,7 @@ MAINTAINER Toni Van de Voorde "toni@adlogix.eu"
 
 # Versions: https://pypi.python.org/pypi/awscli#downloads
 ENV AWS_CLI_VERSION 1.14.59
-ENV ECS_DEPLOY_VERSION 3.3.0
+ENV ECS_DEPLOY_VERSION 3.4.0
 
 RUN /entrypoint.sh \
   -a jq \
