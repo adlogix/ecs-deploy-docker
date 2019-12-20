@@ -7,7 +7,7 @@ Image used for running [ecs-deploy](https://github.com/silinternational/ecs-depl
 
 ## Supported tags and respective `Dockerfile` links
 
-* [`3.7.0`, `3.7`, `latest`](https://github.com/adlogix/ecs-deploy-docker/blob/master/Dockerfile)
+* [`3.7.1`, `3.7`, `latest`](https://github.com/adlogix/ecs-deploy-docker/blob/master/Dockerfile)
 * [`3.6.0`, `3.6`](https://github.com/adlogix/ecs-deploy-docker/blob/3.6.0/Dockerfile)
 
 ## Build command

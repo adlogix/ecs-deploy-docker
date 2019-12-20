@@ -2,7 +2,7 @@ FROM python:3.7.4-alpine
 
 MAINTAINER Toni Van de Voorde "toni@adlogix.eu"
 
-ENV ECS_DEPLOY_VERSION 3.7.0
+ENV ECS_DEPLOY_VERSION 3.7.1
 
 RUN apk --no-cache add curl bash jq \
       && pip install --upgrade pip \
